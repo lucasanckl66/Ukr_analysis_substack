@@ -25,3 +25,19 @@ Some examples of graphs I have created
 - VIINA measures reported events and language, not every battlefield event.
 
 ## Repository Structure (10/23/26)
+```text
+myproject1/
+├── casualty_analysis/
+│   ├── data/
+│   └── casualty_analysis.ipynb
+│
+├── substack/
+│   ├── data/
+│   ├── figures/
+│   ├── dedovshchina.ipynb
+│   ├── poteru.ipynb
+│   ├── total_loss.ipynb
+│   └── future.ipynb
+│
+├── .gitattributes
+└── README.md
