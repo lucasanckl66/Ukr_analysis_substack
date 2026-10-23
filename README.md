@@ -4,8 +4,24 @@ Lots of data pertaining to the war in Ukraine is incomplete, as the war is still
 
 Some examples of graphs I have created
 
-![Ukrainian Deaths by Month](total%20vehicle%20loss%20analysis/figures/04_ukrainian_deaths_by_month.png)
+### Ukrainian Deaths by Month
+![Ukrainian Deaths by Month](substack/figures/04_ukrainian_deaths_by_month.png)
 
-![Age at Death by Year and Personnel](total%20vehicle%20loss%20analysis/figures/Age_at_Death_by_Year_and_Personnel_Category.png)
+### Age at Death by Year and Personnel
+![Age at Death by Year and Personnel](substack/figures/Age_at_Death_by_Year_and_Personnel_Category.png)
 
+### Three Month Rolling Median Age at Death for PMCS and Conscripts
+![Three Month Rolling Median Age PMC Conscript](substack/figures/Three_Month_Rolling_Median_Age_PMC_Conscript.png)
 
+## Data Sources
+- **Poteru:** Documented Russian military deaths, including age, rank, location, branch, PMC status, and conscript status.
+- **VIINA:** Geolocated event and media-reporting from the war in Ukraine.
+
+## Limitations
+- Documented deaths are not equivalent to total deaths.
+- Records from recent months may be incomplete.
+- PMC, conscript, rank and branch labels depend on available public information.
+- Geographic totals may reflect population size and uneven reporting.
+- VIINA measures reported events and language, not every battlefield event.
+
+## Repository Structure (10/23/26)
