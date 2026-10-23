@@ -41,3 +41,7 @@ myproject1/
 │
 ├── .gitattributes
 └── README.md
+```
+
+## Related Writing
+https://lucasan1.substack.com/p/fear-moves-down-lies-move-up-what 
