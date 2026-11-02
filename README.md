@@ -2,7 +2,7 @@ Data and code used to create graphics and see if datasets are a fit for my subst
 
 Lots of data pertaining to the war in Ukraine is incomplete, as the war is still going on. Many of the graphics and datasets used here will not be published on my substack. 
 
-Some examples of graphs I have created
+## Examples of Graphs Created
 
 ### Ukrainian Deaths by Month
 ![Ukrainian Deaths by Month](substack/figures/04_ukrainian_deaths_by_month.png)
