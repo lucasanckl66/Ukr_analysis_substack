@@ -42,6 +42,20 @@ myproject1/
 ├── .gitattributes
 └── README.md
 ```
+## Future Changes and Planned Progression
+
+### For the currently empty casualty_analysis.ipynb:
+
+- **[Mediazona Russian Military Deaths](https://en.zona.media/article/2026/09/21/casualties_eng-trl):** A verified named list of Russian military deaths compiled from public sources. I plan to examine differences across ages, regions, and recruitment categories, and compare these patterns with my existing casualty datasets.
+
+- **[The Economist’s Casualty Estimates](https://github.com/TheEconomist/the-economist-ukraine-war-dead-and-wounded-estimates):** Combines reported casualty estimates, war-fire activity, and territorial changes to estimate Russian military deaths and total casualties. I plan to visualize these estimates over time, examine their uncertainty, and compare estimated deaths with confirmed named deaths.
+
+### Other interesting datasets for the near future:
+
+- **[The Economist’s War-Fire Model](https://github.com/TheEconomist/the-economist-war-fire-model):** Uses satellite temperature anomalies and machine learning to identify likely war-related fires in Ukraine. I plan to map changes in fighting intensity and compare them with reported conflict events in VIINA.
+
+- **[UCDP Georeferenced Event Dataset](https://ucdp.uu.se/downloads/):** Records events of organized violence with dates, locations, actors, and fatality estimates. I plan to isolate events in Ukraine, map geographic and temporal patterns, and compare coverage with VIINA.
+
 
 ## Related Writing
 https://lucasan1.substack.com/p/fear-moves-down-lies-move-up-what 
