@@ -16,6 +16,9 @@ Some examples of graphs I have created
 ## Data Sources
 - **Poteru:** Documented Russian military deaths, including age, rank, location, branch, PMC status, and conscript status.
 - **VIINA:** Geolocated event and media-reporting from the war in Ukraine.
+- **Confirmed Ukrainian Military Personnel Losses -Olivier Hubert:** Daily losses of the Ukrainian military according to the UALosses
+- **Confirmed Russian Military Officers Losses -Olivier Hubert:** Daily losses of the Russian military according to the Killed in Ukraine Project
+- **2022 Russia Ukraine War, Losses, Oryx + Images -Petro Ivanuik:** Equipment losses for both sides based on Oryx by scraping Ukrainian losses and Russian losses pages
 
 ## Limitations
 - Documented deaths are not equivalent to total deaths.
