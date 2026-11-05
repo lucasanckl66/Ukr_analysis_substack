@@ -87,9 +87,9 @@ myproject1/
 │   ├── data/
 │   ├── figures/
 │   ├── dedovshchina.ipynb
+│   ├── future.ipynb
 │   ├── poteru.ipynb
-│   ├── total_loss.ipynb
-│   └── future.ipynb
+│   └── total_loss.ipynb
 │
 ├── .gitattributes
 └── README.md
